@@ -1,6 +1,0 @@
-{
-  "name": "TecaVirtual",
-  "description": "Sistema de gestão e cadastro de livros para a biblioteca TecaVirtual",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
